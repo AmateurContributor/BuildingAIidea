@@ -1,6 +1,3 @@
-# Project title
-Forecasting visitors on a local gym
-
 ## Summary
 The idea for an AI application is to use and train data such as user logins, weather, public holidays and use history to create a forecasting application for the local gym's users
 
