@@ -1,8 +1,4 @@
-# BuildingAIidea
-For the Building AI course
-
 # Project title
-
 Forecasting visitors on a local gym
 
 ## Summary
