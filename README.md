@@ -1,4 +1,4 @@
-# Forecasting gym usage with Machine Learning
+# Forecasting gym use frequency with Machine Learning
 
 ## Summary
 The idea for an AI application is to use and train data such as user logins, weather, public holidays and use history to create a forecasting application for the local gym's users
